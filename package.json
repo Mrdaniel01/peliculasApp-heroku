@@ -1,6 +1,10 @@
 {
   "name": "peliculas-app",
+  "description": "a really cool app",
   "version": "0.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
